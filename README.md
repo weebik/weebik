@@ -1,10 +1,10 @@
-# Hi there, I'm Krystian 👋
+# Hi, I'm Krystian!
 
-## 🚀 About Me
+## About Me
 
 🎓 I'm a **Computer Science** student at **University of Wrocław**, currently in my **3rd year**.  
 👨‍💻 I contribute to **KSI (Koło Studentów Informatyki)** and work on various **open-source** projects.  
-💡 Passionate about **app development, algorithms, and esthetic graphics**.  
+💡 Passionate about **app development and esthetic graphics**.  
 🏂 Love **snowboarding, cycling, and traveling** in my free time.  
 🐱 Proud owner of **Miśka**, my awesome cat!  
 
@@ -34,13 +34,12 @@
 ## 📂 Featured Projects
 
 🔹 [**Weebsite**](https://github.com/weebik/weebsite) - My personal cv with strapi cms.  
-🔹 [**LogoPlayground**](https://github.com/weebik/) - Web app that translates logo code to turtle code for frontend. 
+🔹 [**LogoPlayground**](https://github.com/weebik/python-logo) - Web app that translates logo code to turtle code for frontend. 
+🔹 [**PaletteCreator**](https://github.com/weebik/palette-creator) - Web app with that generates color palettes based on input.
+🔹 [**Log-ger**](https://github.com/weebik/Log-ger) - Assetto Corsa app that exports your lap times and fuel level lap by lap.
 
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weebik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weebik)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://weebsitecv.vercel.app)
-
----
-💡 _"Keep learning, keep building, and have fun coding!"_ 🚀
