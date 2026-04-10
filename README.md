@@ -34,9 +34,9 @@
 ## 📂 Featured Projects
 
 🔹 [**Weebsite**](https://github.com/weebik/weebsite) - My personal cv with strapi cms.  
-🔹 [**LogoPlayground**](https://github.com/weebik/python-logo) - Web app that translates logo code to turtle code for frontend. 
-🔹 [**PaletteCreator**](https://github.com/weebik/palette-creator) - Web app with that generates color palettes based on input. 
-🔹 [**Log-ger**](https://github.com/weebik/Log-ger) - Assetto Corsa app that exports your lap times and fuel level lap by lap. 
+🔹 [**LogoPlayground**](https://github.com/weebik/python-logo) - Web app that translates logo code to turtle code for frontend.  
+🔹 [**PaletteCreator**](https://github.com/weebik/palette-creator) - Web app with that generates color palettes based on input.  
+🔹 [**Log-ger**](https://github.com/weebik/Log-ger) - Assetto Corsa app that exports your lap times and fuel level lap by lap.  
 
 ## 📫 How to reach me
 
